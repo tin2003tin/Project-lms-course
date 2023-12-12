@@ -1,6 +1,16 @@
-# Build an LMS Platform: Next.js 13,  React, Stripe, Mux, Prisma, Tailwind, MySQL | Full Course 2023
-
-![Copy of Copy of Copy of Copy of Fullstack Twitter Clone (9)](https://github.com/AntonioErdeljac/next13-lms-platform/assets/23248726/fa077fca-bb74-419a-84de-54ac103bb026)
+# Build an LMS Platform
+@This is my first project from tutorial (https://github.com/AntonioErdeljac/next13-lms-platform)
+### Build an LMS Platform: Next.js 13,  React, Stripe, Mux, Prisma, Tailwind, MySQL | Full Course 2023
+#### - Framework : Next.js 13 (https://vitejs.dev/guide/)
+#### - Ui : Lucide ()
+#### - Component : Shadcn ()
+#### - Authentication : Firebase (https://firebase.google.com/)
+#### - Database : Firebase (https://firebase.google.com/)
+#### - Storage : Firebase (https://firebase.google.com/)
+#### - Deploy : Vercel (https://vercel.com/)
+### Web Link
+##### -https://tin-my-tutorial-1-git-main-tin2003tins-projects.vercel.app/
+##### -https://tin-my-tutorial-1-azg8x18jl-tin2003tins-projects.vercel.app/
 
 
 This is a repository for Build an LMS Platform: Next.js 13,  React, Stripe, Mux, Prisma, Tailwind, MySQL | Full Course 2023
