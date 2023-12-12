@@ -8,8 +8,8 @@
 #### - Database : Neon(postgresql)+ Prisma (https://console.neon.tech/)(https://www.prisma.io/)
 #### - Storage : Uploadthing (https://uploadthing.com/)
 #### - Video : Mux (https://www.mux.com/)
-#### - Paymeny : Stripe (https://stripe.com/en-th)
+#### - Payment : Stripe (https://stripe.com/en-th)
 #### - Deploy : Vercel (https://vercel.com/)
 ### Web Link
-##### - lms-course-tin2003tins-projects.vercel.app
-##### - lms-course-git-main-tin2003tins-projects.vercel.app
+##### -https://lms-course-tin2003tins-projects.vercel.app
+##### -https://lms-course-git-main-tin2003tins-projects.vercel.app
