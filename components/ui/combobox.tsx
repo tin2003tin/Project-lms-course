@@ -26,15 +26,25 @@ interface ComboboxProps {
 
 export const Combobox = ({ options, value, onChange }: ComboboxProps) => {
   const [open, setOpen] = React.useState(false);
+  const ref = React.useRef<HTMLButtonElement>(null);
+
+  const handleButtonClick = () => {
+    setOpen(!open);
+    if (!open && ref.current) {
+      ref.current.focus();
+    }
+  };
 
   return (
     <Popover open={open} onOpenChange={setOpen}>
       <PopoverTrigger asChild>
         <Button
+          ref={ref} // Add ref here
           variant="outline"
           role="combobox"
           aria-expanded={open}
           className="w-full justify-between"
+          onClick={handleButtonClick}
         >
           {value
             ? options.find((option) => option.value === value)?.label
