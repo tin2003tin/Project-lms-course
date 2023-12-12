@@ -1,5 +1,5 @@
 # Build an LMS Platform
-@This is my first project from tutorial (https://github.com/AntonioErdeljac/next13-lms-platform)
+@This is my second project from tutorial (https://github.com/AntonioErdeljac/next13-lms-platform)
 ### Build an LMS Platform: Next.js 13,  React, Stripe, Mux, Prisma, Tailwind, MySQL | Full Course 2023
 #### - Framework : Next.js 14 (https://nextjs.org/)
 #### - Ui : Lucide (https://lucide.dev/)
